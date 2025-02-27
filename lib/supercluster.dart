@@ -1,5 +1,3 @@
-library supercluster;
-
 import 'supercluster.dart';
 
 export 'src/cluster_data_base.dart';
